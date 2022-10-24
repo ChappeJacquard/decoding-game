@@ -1,3 +1,14 @@
+# build directory
+build/*
+
+# key file
+key_file
+cipher_file
+message_file
+
+# ide settings
+.vscode/*
+
 # Prerequisites
 *.d
 
